@@ -9,7 +9,7 @@
 	<key>DocumentType</key>
 	<string>PlaygroundBook</string>
 	<key>Name</key>
-	<string>com.apple.playgrounds.blank</string>
+	<string>com.yourdomain.1D686D00</string>
 	<key>UpdateVersion</key>
 	<string>1.0</string>
 	<key>Updates</key>
@@ -18,24 +18,18 @@
 		<array>
 			<dict>
 				<key>File</key>
-				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</string>
-			</dict>
-			<dict>
-				<key>File</key>
 				<string>Chapters/Chapter1.playgroundchapter/UserManifest.plist</string>
 			</dict>
 		</array>
 		<key>Modified</key>
+		<array/>
+		<key>Removed</key>
 		<array>
 			<dict>
-				<key>Diff</key>
-				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift.delta</string>
 				<key>File</key>
-				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+				<string>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</string>
 			</dict>
 		</array>
-		<key>Removed</key>
-		<array/>
 		<key>Replaced</key>
 		<array/>
 	</dict>
